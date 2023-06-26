@@ -1,0 +1,10 @@
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\bin\Debug\Smith_2.exe.config
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\bin\Debug\Smith_2.exe
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\bin\Debug\Smith_2.pdb
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\obj\Debug\Smith_2.csprojAssemblyReference.cache
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\obj\Debug\Smith_2.Form1.resources
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\obj\Debug\Smith_2.Properties.Resources.resources
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\obj\Debug\Smith_2.csproj.GenerateResource.cache
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\obj\Debug\Smith_2.csproj.CoreCompileInputs.cache
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\obj\Debug\Smith_2.exe
+C:\Users\Alexanderjsmith\Desktop\Assingment 2\Smith_2\Smith_2\obj\Debug\Smith_2.pdb
